@@ -1,9 +1,9 @@
 # Space-Ship-Game
 
-#Player: Captain America Commands
-Move Left: #A
-Move Right: #D
+# Player: Captain America Commands
+Move Left: # A
+Move Right: # D
 
-#Player: Deadpool Commands
+# Player: Deadpool Commands
 Move Left: #Left Arrow
 Move Right: #Right Arrow
